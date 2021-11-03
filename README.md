@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://imgs.xkcd.com/comics/real_programmers.png)
 
 <!--
 **ThePicoNerd/ThePicoNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
